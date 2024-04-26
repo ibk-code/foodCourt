@@ -1,3 +1,17 @@
 /* ------- configure variables ------ */
 :root {
+  --foreground: linear-gradient(
+    to right,
+    #89c7e4,
+    #96b6ea,
+    #ba9fdc,
+    #da86b6,
+    #e3757f
+  );
+  --white: #ffffff;
+  height: 40px;
+  --black: #001428;
+  --blue: #89c7e4;
+  --deepBlue: #41a0e2;
+  --red: #e3757f;
 }
